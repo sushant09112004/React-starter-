@@ -6,7 +6,7 @@ function Navbar() {
         <div className="left text-2xl font bold ">
             <Link to ="/home">home </Link>
         </div>
-        <div className="right">
+        <div className="right text-red-400">
             <Link to ="/about">about</Link>
         </div>
 
